@@ -78,7 +78,10 @@
 </a>
 
 <a href="#">
-	![dotnet](https://github.com/bahadirsoy/bahadirsoy/assets/41841980/28c98149-167c-42e5-9e94-09f349a8f75a)
+	<img src="![dotnet](https://github.com/bahadirsoy/bahadirsoy/assets/41841980/28c98149-167c-42e5-9e94-09f349a8f75a)"
+		alt="mongodb"
+		data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"
+		style="max-width: 100%;">
 </a>
 
 <br>
