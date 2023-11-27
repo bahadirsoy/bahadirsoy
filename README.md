@@ -50,7 +50,7 @@
 
  ## My github stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bahadirsoy)](https://github.com/bahadirsoy/github-readme-stats)
+<p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d5195c1d375640f420c8a6543589596be74c9f763a5ac91823bb6a1f122a7fd8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7961726b696e63616e65722673686f775f69636f6e733d74727565267469746c655f636f6c6f723d3334393864622662675f636f6c6f723d303030303030303026746578745f636f6c6f723d33343938646226686964655f626f726465723d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/d5195c1d375640f420c8a6543589596be74c9f763a5ac91823bb6a1f122a7fd8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7961726b696e63616e65722673686f775f69636f6e733d74727565267469746c655f636f6c6f723d3334393864622662675f636f6c6f723d303030303030303026746578745f636f6c6f723d33343938646226686964655f626f726465723d74727565266c6f63616c653d656e" alt="bahadirustabasi" data-canonical-src="https://github-readme-stats.vercel.app/api?username=bahadirsoy&amp;show_icons=true&amp;title_color=3498db&amp;bg_color=00000000&amp;text_color=3498db&amp;hide_border=true&amp;locale=en" style="max-width: 100%;"></a></p>
 
 <!--
 **bahadirsoy/bahadirsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
